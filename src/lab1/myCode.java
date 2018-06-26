@@ -9,7 +9,7 @@ public class myCode {
     System.out.println("Sukanya Srirak");
     System.out.println("361211760036");
     System.out.println("MIT211");
-    System.out.println("RMUTSV");
+
     }//main
 
 
